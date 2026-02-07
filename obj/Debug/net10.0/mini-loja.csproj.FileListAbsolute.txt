@@ -1,0 +1,14 @@
+C:\Users\suporte\dev\mini-loja\bin\Debug\net10.0\mini-loja.exe
+C:\Users\suporte\dev\mini-loja\bin\Debug\net10.0\mini-loja.deps.json
+C:\Users\suporte\dev\mini-loja\bin\Debug\net10.0\mini-loja.runtimeconfig.json
+C:\Users\suporte\dev\mini-loja\bin\Debug\net10.0\mini-loja.dll
+C:\Users\suporte\dev\mini-loja\bin\Debug\net10.0\mini-loja.pdb
+C:\Users\suporte\dev\mini-loja\obj\Debug\net10.0\mini-loja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suporte\dev\mini-loja\obj\Debug\net10.0\mini-loja.AssemblyInfoInputs.cache
+C:\Users\suporte\dev\mini-loja\obj\Debug\net10.0\mini-loja.AssemblyInfo.cs
+C:\Users\suporte\dev\mini-loja\obj\Debug\net10.0\mini-loja.csproj.CoreCompileInputs.cache
+C:\Users\suporte\dev\mini-loja\obj\Debug\net10.0\mini-loja.dll
+C:\Users\suporte\dev\mini-loja\obj\Debug\net10.0\refint\mini-loja.dll
+C:\Users\suporte\dev\mini-loja\obj\Debug\net10.0\mini-loja.pdb
+C:\Users\suporte\dev\mini-loja\obj\Debug\net10.0\mini-loja.genruntimeconfig.cache
+C:\Users\suporte\dev\mini-loja\obj\Debug\net10.0\ref\mini-loja.dll
